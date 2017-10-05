@@ -1,30 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Binghamton University KnitWits
 
-You can use the [editor on GitHub](https://github.com/BinghamtonKnitWits/BinghamtonKnitWits.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are an organization of knitters and crocheters who are committed to promoting our craft on the Binghamton campus and within the great Binghamton area
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Our organization meets weekly on Monday nights from 7:30-9:00 PM in University Union 111. We periodically sell our products on campus and at the end of every academic year we select a few charities to donate all proceeds to. 
 
-### Markdown
+### Interested in joining?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you would like to join KnitWits please sign up for our emails by joining our organization on B-Engaged: 
+[https://bengaged.binghamton.edu/organization/knitwits](url)
 
-```markdown
-Syntax highlighted code block
+If you would like to contact us with questions or outside inquiries, please shoot us an email at:
+[KnitWits@BinghamtonSA.org](url) and 
 
-# Header 1
-## Header 2
-### Header 3
+![Image](src)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
