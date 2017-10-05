@@ -21,7 +21,6 @@ We also are on [Facebook!](https://www.facebook.com/BUKnitwits/)
 Interested in custom ordering something? To visit us during one of our sales check out our calender. If you want to custom order something please email us at [KnitWits@BinghamtonSA.org](KnitWits@BinghamtonSA.org) with your order. Remember, all proceeds go to charity so your purchase will do good in more than one way!
 
 We create everything from hats and scarves to stuff animals and blankets. Here are a few samples of our work:
-![Image](KnitWits.jpg)
-![Image](KnitWits.jpg)
-![Image](KnitWits.jpg)
-![Image](KnitWits.jpg)
+![Image](FB_IMG_1505172487157.jpg)
+![Image](22046018_1449892671755151_2892065770208957701_n.jpg	) ![Image](1ed58196e1334e719d35fcb40f8a70b1.jpeg)
+![Image](FB_IMG_1505172475173.jpg) ![Image](FB_IMG_1505172433464.jpg	)
