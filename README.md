@@ -1,6 +1,6 @@
 ## Welcome to Binghamton University KnitWits
 
-![Image](KnitWits.jpg =100x)
+![Image](KnitWits.jpg)
 
 We are an organization of knitters and crocheters who are committed to promoting our craft on the Binghamton campus and within the greater Binghamton area
 
@@ -14,15 +14,14 @@ If you would like to join KnitWits please sign up for our emails by joining our 
 If you would like to contact us with questions or outside inquiries, please shoot us an email at:
 [KnitWits@BinghamtonSA.org](KnitWits@BinghamtonSA.org)
 
+We also are on [Facebook!](https://www.facebook.com/BUKnitwits/)
 
+### Our Projects
 
+Interested in custom ordering something? To visit us during one of our sales check out our calender. If you want to custom order something please email us at [KnitWits@BinghamtonSA.org](KnitWits@BinghamtonSA.org) with your order. Remember, all proceeds go to charity so your purchase will do good in more than one way!
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BinghamtonKnitWits/BinghamtonKnitWits.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We create everything from hats and scarves to stuff animals and blankets. Here are a few samples of our work:
+![Image](KnitWits.jpg)
+![Image](KnitWits.jpg)
+![Image](KnitWits.jpg)
+![Image](KnitWits.jpg)
