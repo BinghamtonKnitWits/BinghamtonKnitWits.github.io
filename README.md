@@ -1,6 +1,6 @@
 ## Welcome to Binghamton University KnitWits
 
-![Image](KnitWits.jpg)
+![Image](KnitWits.jpg =100x100)
 
 We are an organization of knitters and crocheters who are committed to promoting our craft on the Binghamton campus and within the greater Binghamton area
 
